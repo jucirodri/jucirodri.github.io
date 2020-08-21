@@ -29,7 +29,7 @@
   path: tabs
   url: about
 -
-  name: "Test"
-  icon: "fas fa-info"
+  name: "Projects"
+  icon: "fas fa-folder"
   path: tabs
-  url: test
+  url: projects
